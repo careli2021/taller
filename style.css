@@ -1,0 +1,8 @@
+
+:root {
+  --color-oscuro: #1f2937;
+  --color-acento: #0f766e;
+}
+.tarjetas {
+  display: grid;
+}
